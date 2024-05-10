@@ -1,0 +1,19 @@
+.footer{
+    padding:0px;
+    margin: 20px;
+    text-align: center;
+    height:100px;
+
+}
+.img{
+    padding:10px;
+    border: 10px;
+    
+}
+.footer-button{
+  
+    left:20px;
+    margin: 15px;
+    height:80px;
+
+}
